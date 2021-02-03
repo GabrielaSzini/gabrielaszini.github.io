@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "about me"
 title_separator          : "-"
 name                     : &name "Gabriela Szini"
 description              : &description "PhD Candidate in Econometrics at the University of Amsterdam"
