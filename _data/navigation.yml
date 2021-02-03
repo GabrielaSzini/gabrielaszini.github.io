@@ -9,20 +9,17 @@ main:
   - title: "teaching"
     url: /teaching/    
     
-  #- title: "Portfolio"
-  #  url: /portfolio/
+  - title: "cv"
+    url: /cv/    
+    
+  - title: "miscellaneous"
+    url: /miscellaneous/
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "contact"
+    url: /contact/
     
   - title: "cv"
     url: /cv/
     
   #- title: "Guide"
   #  url: /markdown/
-  
-  - title: "miscellaneous"
-    url: /miscellaneous/  
-  
-  - title: "contact"
-   url: /contact/  
