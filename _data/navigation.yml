@@ -20,3 +20,9 @@ main:
     
   #- title: "Guide"
   #  url: /markdown/
+  
+      - title: "miscellaneous"
+    url: /miscellaneous/  
+  
+    - title: "contact"
+    url: /contact/  
