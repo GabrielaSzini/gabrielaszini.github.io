@@ -21,8 +21,8 @@ main:
   #- title: "Guide"
   #  url: /markdown/
   
-      - title: "miscellaneous"
+  - title: "miscellaneous"
     url: /miscellaneous/  
   
-    - title: "contact"
-    url: /contact/  
+  - title: "contact"
+   url: /contact/  
