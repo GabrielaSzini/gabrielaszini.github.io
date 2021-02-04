@@ -1,14 +1,16 @@
 ---
-title: "Correcting for Sample Selection Bias in Dyadic Regressions: with an Application to Gravity Models" *Based on MPhil thesis*.
-collection: research
-permalink: /research/correcting_sample_selection_dyadic
-excerpt:
-date: 2020-08-01
-venue:
-paperurl: 'http://gabrielaszini.github.io/files/paper_correcting_sample_selection_dyadic.pdf'
-citation:
+title: "Paper Title Number 1"
+collection: publications
+permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-We present methods to correct for sample selection bias in the estimation of dyadic regressions. Dyadic datasets can be seen as a pseudo panel data, where both dimensions tend to infinity as the number of individuals grows. We show that including fixed effects for both individuals forming a dyad leads to asymptotically biased estimates of the structural parameters in the first stage of the Heckman (1979) two step method. This is a consequence of the incidental parameter problem. We reconcile and modify existing approaches to similar problems in standard panel data models to this framework. Our Monte Carlo simulation exercise corroborates to the theoretical predictions that the standard Heckman approach yields biased estimates, while the proposed methods reduce such biases. We apply the proposed estimators to the gravity model for international trade flows. The suggested methods deliver different estimates for the coefficients of trade barriers.
+This paper is about the number 1. The number 2 is left for future work.
 
-[Download thesis here](http://gabrielaszini.github.io/files/paper_correcting_sample_selection_dyadic.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
