@@ -3,7 +3,7 @@ title: "What is the impact of accountability in the Brazilian educational system
 collection: research
 permalink: /research/accountability_diff_in_diff
 excerpt:
-date: 2013-12-01
+date:
 venue: 
 paperurl: 
 citation: 
