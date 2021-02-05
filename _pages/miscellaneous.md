@@ -8,3 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<img src="gabriela.jpg" alt="My cool logo"/>
+# My cool project and above is the logo of it
