@@ -11,3 +11,5 @@ redirect_from:
 
 <img src="https://github.com/GabrielaSzini/gabrielaszini.github.io/tree/master/images/gabriela.jpg" alt="My cool logo"/>
 # My cool project and above is the logo of it
+
+![draw1](https://github.com/GabrielaSzini/gabrielaszini.github.io/tree/master/images/gabriela.jpg)
