@@ -37,10 +37,10 @@ In my free time, I like to make drawings and paintings, and to read about art in
 ![draw8](draw8.jpg)\
 *The lady 2*, Oil pain
 
-![draw9](draw9.jpg)\
+![draw9](draw9.jpeg)\
 *Audrey Hepburn*, Watercolor and oil paint
 
-![draw10](draw10.jpg)\
+![draw10](draw10.jpeg)\
 *Coke*, Oil paint
 
 
