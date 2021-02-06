@@ -7,11 +7,30 @@ author_profile: true
 
 In my free time, I like to make drawings and paintings, and to read about art in general. You can check some of my work below:
 
-![draw1](draw1.jpg)
+![draw1](draw1.jpg)\
+*Upside down*, Watercolor
+
+![draw2](draw2.jpg)\
+*Dots*, Nankin, pointillism
+
+![draw2'](draw2'.jpg)\
+*Smashing Pumpkins*, Oil pastel
+
+![draw3](draw3.jpg)\
+*The White Stripes*, Oil pastel
+
+![draw4](draw4.jpg)\
+*The lady*, Graphite
+
+![draw4'](draw4'.jpg)\
+*Star Wars*, Watercolor
+
+![draw5](draw5.jpg)\
+*The half-invisible lady*, Hard pastel
+
+![draw6](draw6.jpg)\
+*Victor van Dort*, Oil pastel
 
 
-![draw1](https://github.com/GabrielaSzini/gabrielaszini.github.io/tree/master/images/gabriela.jpg?raw=true)
-
-<img src="https://github.com/GabrielaSzini/gabrielaszini.github.io/tree/master/images/gabriela.jpg" alt="My cool logo" style="height: 100px; width:100px;"/>
 
 
