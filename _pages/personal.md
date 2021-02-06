@@ -25,6 +25,9 @@ In my free time, I like to make drawings and paintings, and to read about art in
 ![draw4'](draw4'.jpg)\
 *Star Wars*, Watercolor
 
+![draw13](draw13.jpeg)\
+*The little owls*, Graphite
+
 ![draw5](draw5.jpg)\
 *The half-invisible lady*, Hard pastel
 
@@ -43,6 +46,11 @@ In my free time, I like to make drawings and paintings, and to read about art in
 ![draw10](draw10.jpeg)\
 *Coke*, Oil paint
 
+![draw11](draw11.jpeg)\
+*Marilyn Monroe*, Nankin
+
+![draw12](draw12.jpeg)\
+*Pop Drew Barrymore*, Oil paint
 
 
 
