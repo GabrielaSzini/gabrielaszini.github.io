@@ -31,6 +31,18 @@ In my free time, I like to make drawings and paintings, and to read about art in
 ![draw6](draw6.jpg)\
 *Victor van Dort*, Oil pastel
 
+![draw7](draw7.jpg)\
+*Invisible clothing*, Oil pastel
+
+![draw8](draw8.jpg)\
+*The lady 2*, Oil pain
+
+![draw9](draw9.jpg)\
+*Audrey Hepburn*, Watercolor and oil paint
+
+![draw10](draw10.jpg)\
+*Coke*, Oil paint
+
 
 
 
