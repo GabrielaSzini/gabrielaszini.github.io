@@ -12,8 +12,8 @@ main:
   - title: "cv"
     url: /cv/    
     
-  - title: "miscellaneous"
-    url: /miscellaneous/
+  - title: "personal"
+    url: /personal/
         
   - title: "contact"
     url: /contact/
