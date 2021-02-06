@@ -38,7 +38,7 @@ In my free time, I like to make drawings and paintings, and to read about art in
 *Invisible clothing*, Oil pastel
 
 ![draw8](draw8.jpg)\
-*The lady 2*, Oil pain
+*The lady 2*, Oil paint
 
 ![draw9](draw9.jpeg)\
 *Audrey Hepburn*, Watercolor and oil paint
