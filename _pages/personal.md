@@ -52,5 +52,8 @@ In my free time, I like to make drawings and paintings, and to read about art in
 ![draw12](draw12.jpeg)\
 *Pop Drew Barrymore*, Oil paint
 
+![draw14](draw14.jpg)\
+*Juliette and the Licks*, Colored pencil
+
 
 
