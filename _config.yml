@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "about me"
 title_separator          : "-"
-name                     : &name "Gabriela Szini"
+name                     : &name "Gabriela Miyazato Szini"
 description              : &description "PhD Candidate in Econometrics at the University of Amsterdam"
 url                      : https://gabrielaszini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
