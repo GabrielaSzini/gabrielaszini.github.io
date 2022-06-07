@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-In my free time, I like to make drawings and paintings, and to read about art in general. You can check some of my work below:
+During my high school years, I studied part time at an art school back in Brazil. When I am not working on my research, drawing and paiting are hobbies that I try to keep alive up to now. 
 
 ![draw1](draw1.jpg)\
 *Upside down*, Watercolor
