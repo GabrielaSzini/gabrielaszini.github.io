@@ -18,7 +18,7 @@ venue:
 paperurl: 
 citation: 
 ---
-'*Joint with Esther de Brabander and [Artūras Juodis](https://sites.google.com/site/ajuodisresearch/).* This paper re-evaluates the e ect of Brexit on the GDP of the UK using the existing Synthetic
+*Joint with Esther de Brabander and [Artūras Juodis](https://sites.google.com/site/ajuodisresearch/).* This paper re-evaluates the effect of Brexit on the GDP of the UK using the existing Synthetic
 Control (SC) with and without covariates and the Synthetic Difference-in-differences (SDID)
 methods. We also introduce an extended SDID estimator with matching on covariates. We find
 that the effect of Brexit ranges from 2:45% to 3:28% when measured at the end of year 2018,
