@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gabriela Szini"
+title: "Gabriela Miyazato Szini"
 excerpt: "about me"
 author_profile: true
 redirect_from: 
