@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Welcome!"
+title: ""
 excerpt: "about me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Welcome to my personal homepage.
 
 I am a PhD student in Econometrics at the [University of Amsterdam](https://ase.uva.nl/content/sections/quantitative-economics/quantitative-economics.html?origin=D4DixO%2FESbuaIXcFryAJdQ) and the [Tinbergen Institute](https://www.tinbergen.nl/home).
 
