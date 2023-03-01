@@ -31,6 +31,8 @@ redirect_from:
 * Statistical decision theory (Prof. Dr. Charles F. Manski and Prof. Dr. Aleksey Tetenov, Cemmap Mastercourses at the University College London)
 
 **Prizes**
+* Travel Grant, Amsterdam University Fund
+* Tinbergen Institute Scholarship (2018-2020)
 * Bronze Medal at the Brazilian National Physics Olympiad
 * Silver Medal at the Brazilian National Astronomy Olympiad
 * Bronze Medal at the Brazilian National Astronomy Olympiad
@@ -39,6 +41,9 @@ redirect_from:
 * Portuguese (Native)
 * English (fluent)
 * French (basic)
+
+**Programming**
+Julia, R, Matlab, Stata, Latex
 
 **Other Professional Experience**
 * Economist, Tendências Consultoria Integrada, 2015-2016
