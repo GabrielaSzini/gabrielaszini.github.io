@@ -25,6 +25,7 @@ redirect_from:
   * Scholarship sponsored by CNPq (National Council for Scientific and Technological Development).
 
 **Summer or Short Courses**
+* Econometrics on Networks (taught by Prof. Dr. Stephane Bonhomme, Tinbergen Lecture Series)
 * Gravity Models and Panel Econometrics (taught by Prof. Dr. Michael Pfaffermayer, Summer School at the World Trade Institute, University of Bern)  
 * The Econometrics of Peer Effects and Social Interactions (taught by Prof. Dr. Áureo de Paula and Prof. Dr. Bryan Graham, Summer School at Bonn and Mannheim University)
 * Tools for Analyzing Big Data and Complex Models (taught by Prof. Dr. Serena Ng, Tinbergen Lecture Series)
