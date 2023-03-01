@@ -39,9 +39,7 @@ redirect_from:
 * Bronze Medal at the Brazilian National Astronomy Olympiad
 
 **Languages**
-* Portuguese (Native)
-* English (fluent)
-* French (basic)
+Portuguese (native), English (fluent), French (beginner/intermediary), Dutch (beginner)
 
 **Programming**
 Julia, R, Matlab, Stata, Latex
