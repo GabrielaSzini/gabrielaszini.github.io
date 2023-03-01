@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 **Education**
+* Visiting PhD Student, Princeton University, 2023
 * PhD Candidate in Econometrics, University of Amsterdam, 2020-present
 * MPhil in Economics and Econometrics, Tinbergen Institute, 2018-2020
 * M1 in Economics (Incigni cum Laude), Toulouse School of Economics, 2016-2017
