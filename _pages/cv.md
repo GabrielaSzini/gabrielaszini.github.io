@@ -24,11 +24,6 @@ redirect_from:
   * Worked on projects related to microeconometrics and program evaluation.
   * Scholarship sponsored by CNPq (National Council for Scientific and Technological Development).
 
-**Teaching Experience**
-* Fall 2020: Applied (Financial) Econometrics, MSc, University of Amsterdam, TA for Prof. Dr. Hans van Ophem
-* Spring 2020: Advanced Econometrics II, MPhil, Tinbergen Institute, TA for Prof. Dr. Frank Kleibergen and Dr. Andreas Pick
-* Fall 2019: Principles in Programming in Econometrics, MPhil, Tinbergen Institute, TA for Prof. Dr. Charles Bos
-
 **Summer or Short Courses**
 * Gravity Models and Panel Econometrics (taught by Prof. Dr. Michael Pfaffermayer, Summer School at the World Trade Institute, University of Bern)  
 * The Econometrics of Peer Effects and Social Interactions (taught by Prof. Dr. Áureo de Paula and Prof. Dr. Bryan Graham, Summer School at Bonn and Mannheim University)
