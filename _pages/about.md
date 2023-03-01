@@ -8,10 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-**Gabriela Miyazato Szini**
-
-![me](image02.jpeg)\
-
 **Welcome to my personal homepage!**
 
 
