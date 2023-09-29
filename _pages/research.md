@@ -4,7 +4,9 @@ title: Research
 ---
 
 ## Job Market Paper
+## Job Market Paper
 
+**A Pairwise Differencing Distribution Regression Approach for Network Models**. 2023.\
 <details>
   <summary>
     <div class="triangle"></div>
@@ -32,11 +34,14 @@ Even though dyadic regressions are widely used in empirical applications, the (a
 <script>
   function visib(id) {
     var x = document.getElementById(id);
+    var triangle = x.previousElementSibling.firstElementChild;
+
     if (x.style.display === "block") {
       x.style.display = "none";
+      triangle.style.transform = "rotate(0deg)";  /* Rotate back to 0 degrees */
     } else {
       x.style.display = "block";
-      x.previousElementSibling.firstElementChild.style.transform = "rotate(180deg)";
+      triangle.style.transform = "rotate(90deg)";  /* Rotate to 90 degrees */
     }
   }
 </script>
@@ -45,14 +50,15 @@ Even though dyadic regressions are widely used in empirical applications, the (a
   .triangle {
     width: 0;
     height: 0;
-    border-left: 10px solid transparent;
-    border-right: 10px solid transparent;
-    border-bottom: 17px solid black;
+    border-top: 10px solid transparent;  /* Change to border-top */
+    border-bottom: 10px solid transparent;  /* Change to border-bottom */
+    border-left: 17px solid black;  /* Change to border-left */
     display: inline-block;
     margin-right: 10px;
     transition: transform 0.3s ease;
   }
   details[open] .triangle {
-    transform: rotate(180deg);
+    transform: rotate(90deg);
   }
 </style>
+
