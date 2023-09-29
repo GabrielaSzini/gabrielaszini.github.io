@@ -1,32 +1,10 @@
 ---
-title: "Is the Effect of Brexit Larger Than Previously Thought? A Synthetic Difference-in-differences Approach with (-out) Covariates"
-collection: research
-permalink: /research/brexit
-excerpt: '*Joint with Esther de Brabander and [Artūras Juodis](https://sites.google.com/site/ajuodisresearch/). Submitted.* This paper re-evaluates the effect of Brexit on the GDP of the UK using the existing Synthetic
-Control (SC) with and without covariates and the Synthetic Difference-in-differences (SDID)
-methods. We also introduce an extended SDID estimator with matching on covariates. We find
-that the effect of Brexit ranges from 2.45% to 3.28% when measured at the end of year 2018,
-depending on the statistical approach used, the definition of the treatment period and on how
-covariates are taken into account. The in-sample placebo tests suggest that the SDID methods
-are the most accurate across different specifications. In particular, even in cases which the SDID
-with covariates leads to the highest accuracy, the improvements are larger when using the SDID
-method compared to the inclusion of covariates. The latter is also shown to be harmful for the
-SC estimators. Our Monte Carlo exercise corroborates to this set of findings. Finally, we also
-indicate how one can easily generate a Zoo of different SC/SDID results by marginally changing
-one of the arbitrary set of tuning parameters and specifications.'
+title: "On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum"
+collection: Research
+permalink: /Research/brexit
+excerpt: '*Joint with Esther de Brabander and [Artūras Juodis](https://sites.google.com/site/ajuodisresearch/). Submitted.* The Synthetic Control (SC) method has been a popular and dominant method to evaluate treatment and intervention effects in the last two decades. The method is powerful yet very intuitive to use both for empirical researchers and policy experts, but is not without shortcomings. As a response to this, the new Demeaned SC (DSC) and Synthetic Differencein-differences (SDID) approaches were introduced in the literature. In this paper, we evaluate the relative benefits of using DSC and SDID using in-sample placebo analysis on the real data on the Brexit referendum, as well as an extensive Monte Carlo study. Overall, using the SDID methodology, we find that the estimated effect of the Brexit referendum on UK GDP at the end of 2018 and 2019 is higher than previously documented in the literature.'
 venue:  
 paperurl: 
 citation: 
 ---
-*Joint with Esther de Brabander and [Artūras Juodis](https://sites.google.com/site/ajuodisresearch/). Submitted.* This paper re-evaluates the effect of Brexit on the GDP of the UK using the existing Synthetic
-Control (SC) with and without covariates and the Synthetic Difference-in-differences (SDID)
-methods. We also introduce an extended SDID estimator with matching on covariates. We find
-that the effect of Brexit ranges from 2.45% to 3.28% when measured at the end of year 2018,
-depending on the statistical approach used, the definition of the treatment period and on how
-covariates are taken into account. The in-sample placebo tests suggest that the SDID methods
-are the most accurate across different specifications. In particular, even in cases which the SDID
-with covariates leads to the highest accuracy, the improvements are larger when using the SDID
-method compared to the inclusion of covariates. The latter is also shown to be harmful for the
-SC estimators. Our Monte Carlo exercise corroborates to this set of findings. Finally, we also
-indicate how one can easily generate a Zoo of different SC/SDID results by marginally changing
-one of the arbitrary set of tuning parameters and specifications.
+*Joint with Esther de Brabander and [Artūras Juodis](https://sites.google.com/site/ajuodisresearch/). Submitted.* The Synthetic Control (SC) method has been a popular and dominant method to evaluate treatment and intervention effects in the last two decades. The method is powerful yet very intuitive to use both for empirical researchers and policy experts, but is not without shortcomings. As a response to this, the new Demeaned SC (DSC) and Synthetic Differencein-differences (SDID) approaches were introduced in the literature. In this paper, we evaluate the relative benefits of using DSC and SDID using in-sample placebo analysis on the real data on the Brexit referendum, as well as an extensive Monte Carlo study. Overall, using the SDID methodology, we find that the estimated effect of the Brexit referendum on UK GDP at the end of 2018 and 2019 is higher than previously documented in the literature.
