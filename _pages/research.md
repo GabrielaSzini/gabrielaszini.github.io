@@ -26,6 +26,7 @@ The Synthetic Control (SC) method has been a popular and dominant method to eval
 Even though dyadic regressions are widely used in empirical applications, the (asymptotic) properties of estimation methods only began to be studied recently in the literature. This paper aims to provide in a step-by-step manner how U-statistics tools can be applied to obtain the asymptotic properties of pairwise differences estimators for a two-way fixed effects model of dyadic interactions. More specifically, we first propose an estimator for the model that relies on pairwise differencing such that the fixed effects are differenced out. As a result, the summands of the influence function will not be independent anymore, showing dependence on the individual level and translating to the fact that the usual law of large numbers and central limit theorems do not straightforwardly apply. To overcome such obstacles, we show how to generalize tools of U-statistics for single-index variables to the double-indices context of dyadic datasets. A key result is that there can be different ways of defining the Hajek projection for a directed dyadic structure, which will lead to distinct, but equivalent, consistent estimators for the asymptotic variances. The results presented in this paper are easily extended to non-linear models.
 </small></div>
 
+
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
