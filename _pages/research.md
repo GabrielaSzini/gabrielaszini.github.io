@@ -8,8 +8,7 @@ title: Research
 **A Pairwise Differencing Distribution Regression Approach for Network Models**. 2023.\
 <details>
   <summary></small>
-    <div class="triangle"></div>
-    Click here to see the abstract</small>
+    Abstract<div class="triangle"></div></small>
   </summary>
   <small>This paper proposes a novel estimation method for distribution regressions in a network setting, considering the effects of covariates on the entire outcome distribution rather than just on the mean. I adopt a semiparametric approach, taking into account two-way unit-specific effects that are treated as fixed parameters to be estimated. Thus, I extend the standard distribution regression approach to a network setting by estimating multiple binary choice models with twoway fixed effects for different thresholds of the distribution. Instead of using bias-correction methods to address the incidental parameter problem, as previously proposed in the literature, I propose to employ a conditional maximum-likelihood approach (Charbonneau (2017), Jochmans (2018)) that differentiates out the unit-specific effects. This method yields consistent point estimates that converge at a parametric rate and remain asymptotically unbiased in the tails of the outcome distribution, where the underlying network can be seen as sparse. Monte Carlo simulations validate these findings for both single cut-offs and the overall outcome distribution. The empirical application focuses on gravity equations for bilateral trade, demonstrating the effectiveness of the proposed approach in cases where the outcome variable is bounded below at zero.</small>
 </details>
