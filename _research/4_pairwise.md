@@ -1,7 +1,7 @@
 ---
 title: "A Pairwise Differencing Distribution Regression Approach for Network Models"
-collection: research
-permalink: /research/pairwise
+collection: Research
+permalink: /Research/pairwise
 excerpt: 
 venue:  
 paperurl: 
