@@ -4,8 +4,8 @@ title: ""
 excerpt: "Homepage"
 author_profile: true
 redirect_from: 
-  - /Homepage/
-  - /Homepage.html
+  - /about/
+  - /about.html
 ---
 
 **Welcome to my personal homepage!**
