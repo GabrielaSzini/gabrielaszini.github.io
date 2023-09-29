@@ -5,12 +5,13 @@ title: Research
 
 ## Job Market Paper
 
-**A Pairwise Differencing Distribution Regression Approach for Network Models**. 2023\
-<small><a href="#/" onclick="visib('jmp')">Abstract</a>
-<div id="jmp" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
-This paper proposes a novel estimation method for distribution regressions in a network setting, considering the effects of covariates on the entire outcome distribution rather than just on the mean. I adopt a semiparametric approach, taking into account two-way unit-specific effects that are treated as fixed parameters to be estimated. Thus, I extend the standard distribution regression approach to a network setting by estimating multiple binary choice models with twoway fixed effects for different thresholds of the distribution. Instead of using bias-correction methods to address the incidental parameter problem, as previously proposed in the literature, I propose to employ a conditional maximum-likelihood approach (Charbonneau (2017), Jochmans (2018)) that differentiates out the unit-specific effects. This method yields consistent point estimates that converge at a parametric rate and remain asymptotically unbiased in the tails of the outcome distribution, where the underlying network can be seen as sparse. Monte Carlo simulations validate these findings for both single cut-offs and the overall outcome distribution. The empirical application focuses on gravity equations for bilateral trade, demonstrating the effectiveness of the proposed approach in cases where the outcome variable is bounded below at zero.
-</small></div>
-
+<details>
+  <summary>
+    <div class="triangle"></div>
+    Click here to show/hide the abstract
+  </summary>
+  <p>This paper proposes a novel estimation method for distribution regressions in a network setting, considering the effects of covariates on the entire outcome distribution rather than just on the mean. I adopt a semiparametric approach, taking into account two-way unit-specific effects that are treated as fixed parameters to be estimated. Thus, I extend the standard distribution regression approach to a network setting by estimating multiple binary choice models with twoway fixed effects for different thresholds of the distribution. Instead of using bias-correction methods to address the incidental parameter problem, as previously proposed in the literature, I propose to employ a conditional maximum-likelihood approach (Charbonneau (2017), Jochmans (2018)) that differentiates out the unit-specific effects. This method yields consistent point estimates that converge at a parametric rate and remain asymptotically unbiased in the tails of the outcome distribution, where the underlying network can be seen as sparse. Monte Carlo simulations validate these findings for both single cut-offs and the overall outcome distribution. The empirical application focuses on gravity equations for bilateral trade, demonstrating the effectiveness of the proposed approach in cases where the outcome variable is bounded below at zero.</p>
+</details>
 
 ## Working papers
 
@@ -37,4 +38,16 @@ Even though dyadic regressions are widely used in empirical applications, the (a
     x.style.display = "block";
   }
 }
+</script>
+
+<script>
+  function visib(id) {
+    var x = document.getElementById(id);
+    if (x.style.display === "block") {
+      x.style.display = "none";
+    } else {
+      x.style.display = "block";
+      x.previousElementSibling.firstElementChild.style.transform = "rotate(180deg)";
+    }
+  }
 </script>
