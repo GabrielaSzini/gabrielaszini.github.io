@@ -30,17 +30,6 @@ Even though dyadic regressions are widely used in empirical applications, the (a
 
 [//]: This java script is the button to show abstract
 <script>
- function visib(id) {
-  var x = document.getElementById(id);
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
-
-<script>
   function visib(id) {
     var x = document.getElementById(id);
     if (x.style.display === "block") {
@@ -51,3 +40,19 @@ Even though dyadic regressions are widely used in empirical applications, the (a
     }
   }
 </script>
+
+<style>
+  .triangle {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 17px solid black;
+    display: inline-block;
+    margin-right: 10px;
+    transition: transform 0.3s ease;
+  }
+  details[open] .triangle {
+    transform: rotate(180deg);
+  }
+</style>
