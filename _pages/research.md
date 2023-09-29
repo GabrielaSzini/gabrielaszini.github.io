@@ -6,7 +6,7 @@ title: Research
 ## Job Market Paper
 
 **A Pairwise Differencing Distribution Regression Approach for Network Models**. 2023.\
-  <smallAbstract</small><details>
+  <small>Abstract</small><details>
   <small>
    <summary><div class="triangle"></div></small>
   </summary>
