@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Work in progress"
-permalink: /research/
+title: "Research"
+permalink: /Research/
 author_profile: true
 ---
 
