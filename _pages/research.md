@@ -28,7 +28,7 @@ The Synthetic Control (SC) method has been a popular and dominant method to eval
   </small>
 </details><br>
 
-**On the use of U-statistics for linear dyadic interaction models**. 2023. &bull; <small>[arXiv](https://arxiv.org/abs/2309.02089)</small>
+**On the Use of U-statistics for linear dyadic interaction models**. 2023. &bull; <small>[arXiv](https://arxiv.org/abs/2309.02089)</small>
 <details>
   <summary>
     <small>Abstract</small>
