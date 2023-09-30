@@ -14,7 +14,7 @@ author_profile: true
 
 ## Tinbergen Institute
 
-**Advanced Econometrics II (MPhil)** &bull; Spring 2023 &bull; TA for [Prof. Dr. Frank Kleibergen](https://www.uva.nl/en/profile/k/l/f.r.kleibergen/f.r.kleibergen.html) and [Dr. Andreas Pick](https://apick.eu/)  &bull; [Tutorial Notes](http://gabrielaszini.github.io/files/Notes_Tutorials__Advanced_Econometrics_II_2022.pdf)
+**Advanced Econometrics II (MPhil)** &bull; Spring 2023 &bull; TA for [Prof. Dr. Frank Kleibergen](https://www.uva.nl/en/profile/k/l/f.r.kleibergen/f.r.kleibergen.html) and [Dr. Andreas Pick](https://apick.eu/)  &bull; [Tutorial Notes](http://gabrielaszini.github.io/files/Notes_Tutorials__Advanced_Econometrics_II_2022.pdf)  
 **Advanced Econometrics II (MPhil)** &bull; Spring 2022 &bull; TA for [Prof. Dr. Frank Kleibergen](https://www.uva.nl/en/profile/k/l/f.r.kleibergen/f.r.kleibergen.html) and [Dr. Andreas Pick](https://apick.eu/)  
 **Advanced Econometrics II (MPhil)** &bull; Spring 2020 &bull; TA for [Prof. Dr. Frank Kleibergen](https://www.uva.nl/en/profile/k/l/f.r.kleibergen/f.r.kleibergen.html) and [Dr. Andreas Pick](https://apick.eu/)  
 **Principles in Programming in Econometrics (MPhil)** &bull; Fall 2019 &bull; TA for [Dr. Charles Bos](https://personal.vu.nl/c.s.bos/)
