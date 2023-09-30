@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "about me"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Gabriela Miyazato Szini"
 description              : &description "PhD Candidate in Econometrics at the University of Amsterdam"
