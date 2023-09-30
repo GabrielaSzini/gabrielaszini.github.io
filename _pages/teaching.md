@@ -11,6 +11,12 @@ author_profile: true
 **Econometrics I (BSc)** &bull; Fall 2022 &bull; TA for [Dr. Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html)  
 **Econometrics I (BSc)** &bull; Fall 2021&bull; TA for [Dr. Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html)  
 **Applied (Financial) Econometrics (MSc)** &bull; Fall 2020 &bull; TA for [Dr. Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html)  
+**Bachelor in Econometrics thesis supervision** (x6) &bull; 2021 and 2022  
+
+## Technical University of Munich
+
+**Summer School (PhD): Advanced Panel Data Econometrics** &bull; March 2023 &bull; TA for Dr. Artūras Juodis  
+
 
 ## Tinbergen Institute
 
