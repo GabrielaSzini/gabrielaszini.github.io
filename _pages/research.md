@@ -17,7 +17,7 @@ This paper proposes a novel estimation method for distribution regressions in a 
 
 ## Working papers
 
-**On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum** (with Artūras Juodis and Esther de Brabander). 2023. *Submitted* &bull; <small>[arXiv](https://arxiv.org/abs/2309.02089)</small>
+**On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum** (with Artūras Juodis and Esther de Brabander). 2023. *Submitted* &bull; <small>[Video of online seminar](https://www.youtube.com/watch?v=ukQQ7CLO6bI)</small>
 <details>
   <summary>
     <small>Abstract</small>
@@ -27,11 +27,15 @@ The Synthetic Control (SC) method has been a popular and dominant method to eval
   </small>
 </details>
 
-**On the use of U-statistics for linear dyadic interaction models**. 2023.\
-<small><a href="#/" onclick="visib('dyadic')">Abstract</a> &bull; [arXiv](https://arxiv.org/abs/2309.02089)</small>
-<div id="dyadic" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
+**On the use of U-statistics for linear dyadic interaction models**. 2023. &bull; <small>[arXiv](https://arxiv.org/abs/2309.02089)</small>
+<details>
+  <summary>
+    <small>Abstract</small>
+  </summary> 
+  <small>
 Even though dyadic regressions are widely used in empirical applications, the (asymptotic) properties of estimation methods only began to be studied recently in the literature. This paper aims to provide in a step-by-step manner how U-statistics tools can be applied to obtain the asymptotic properties of pairwise differences estimators for a two-way fixed effects model of dyadic interactions. More specifically, we first propose an estimator for the model that relies on pairwise differencing such that the fixed effects are differenced out. As a result, the summands of the influence function will not be independent anymore, showing dependence on the individual level and translating to the fact that the usual law of large numbers and central limit theorems do not straightforwardly apply. To overcome such obstacles, we show how to generalize tools of U-statistics for single-index variables to the double-indices context of dyadic datasets. A key result is that there can be different ways of defining the Hajek projection for a directed dyadic structure, which will lead to distinct, but equivalent, consistent estimators for the asymptotic variances. The results presented in this paper are easily extended to non-linear models.
-</small></div>
+  </small>
+</details>
 
 
 [//]: This java script is the button to show abstract
