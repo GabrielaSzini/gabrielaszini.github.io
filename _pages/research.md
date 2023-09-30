@@ -26,7 +26,7 @@ This paper proposes a novel estimation method for distribution regressions in a 
   <small>
 The Synthetic Control (SC) method has been a popular and dominant method to evaluate treatment and intervention effects in the last two decades. The method is powerful yet very intuitive to use both for empirical researchers and policy experts, but is not without shortcomings. As a response to this, the new Demeaned SC (DSC) and Synthetic Differencein-differences (SDID) approaches were introduced in the literature. In this paper, we evaluate the relative benefits of using DSC and SDID using in-sample placebo analysis on the real data on the Brexit referendum, as well as an extensive Monte Carlo study. Overall, using the SDID methodology, we find that the estimated effect of the Brexit referendum on UK GDP at the end of 2018 and 2019 is higher than previously documented in the literature.
   </small>
-</details><br><br>
+</details><br>
 
 **On the use of U-statistics for linear dyadic interaction models**. 2023. &bull; <small>[arXiv](https://arxiv.org/abs/2309.02089)</small>
 <details>
