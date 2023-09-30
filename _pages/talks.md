@@ -10,7 +10,7 @@ title: Research
 **Econometrics Student Seminar** &bull; February 22, 2023 &bull; Princeton University, USA &bull; Presented [Pairwise]\
 **Seminários Economia USP** &bull; August 18, 2022 &bull; Universidade de São Paulo, Brazil &bull; Presented [Brexit] &bull; [Video of online seminar](https://www.youtube.com/watch?v=ukQQ7CLO6bI)\
 **Faculty of Economics and Business PhD Lunch Seminar** &bull; June 14, 2021; University of Amsterdam, the Netherlands &bull; Presented [Dyadic]\
-**Brown Bag Econometrics Lunch Seminar** &bull; October 23, 2020 &bull; University of Amsterdam, the Netherlands &bull; Presented MPhil thesis\
+**Brown Bag Econometrics Lunch Seminar** &bull; October 23, 2020 &bull; University of Amsterdam, the Netherlands &bull; Presented MPhil thesis
 
 ## Conferences
 
@@ -25,4 +25,4 @@ title: Research
 **26th International Panel Data Conference (IPDC)** &bull; July 2, 2021 &bull; Online &bull; Presented MPhil thesis\
 <br>
 
-<small>[Pairwise] refers to "A Pairwise Differencing Distribution Regression Approach for Network Models", [Brexit] refers to "On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum", [Dyadic] refers to "On the Use of U-statistics for linear dyadic interaction models", and the MPhil thesis is titled "Correcting for Sample Selection Bias in Dyadic Regressions. With an Application to Gravity Models" {link to the thesis}(http://gabrielaszini.github.io/files/paper_correcting_sample_selection_dyadic.pdf).</small>
+<small>[Pairwise] refers to "A Pairwise Differencing Distribution Regression Approach for Network Models", [Brexit] refers to "On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum", [Dyadic] refers to "On the Use of U-statistics for linear dyadic interaction models", and the MPhil thesis is titled "Correcting for Sample Selection Bias in Dyadic Regressions. With an Application to Gravity Models" [link to the thesis](http://gabrielaszini.github.io/files/paper_correcting_sample_selection_dyadic.pdf).</small>
