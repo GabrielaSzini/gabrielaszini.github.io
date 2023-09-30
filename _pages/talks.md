@@ -1,6 +1,6 @@
 ---
-permalink: /research/
-title: Research
+permalink: /talks/
+title: Talks
 ---
 
 ## Seminars
@@ -25,4 +25,4 @@ title: Research
 **26th International Panel Data Conference (IPDC)** &bull; July 2, 2021 &bull; Online &bull; Presented MPhil thesis\
 <br>
 
-<small>[Pairwise] refers to "A Pairwise Differencing Distribution Regression Approach for Network Models", [Brexit] refers to "On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum", [Dyadic] refers to "On the Use of U-statistics for linear dyadic interaction models", and the MPhil thesis is titled "Correcting for Sample Selection Bias in Dyadic Regressions. With an Application to Gravity Models" [link to the thesis](http://gabrielaszini.github.io/files/paper_correcting_sample_selection_dyadic.pdf).</small>
+<small>[Pairwise] refers to "A Pairwise Differencing Distribution Regression Approach for Network Models", [Brexit] refers to "On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum", [Dyadic] refers to "On the Use of U-statistics for linear dyadic interaction models", and the MPhil thesis is titled "Correcting for Sample Selection Bias in Dyadic Regressions. With an Application to Gravity Models" ([link to the thesis](http://gabrielaszini.github.io/files/paper_correcting_sample_selection_dyadic.pdf)).</small>
