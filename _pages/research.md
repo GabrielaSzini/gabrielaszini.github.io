@@ -17,11 +17,11 @@ This paper proposes a novel estimation method for distribution regressions in a 
 
 ## Working papers
 
-**On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum** (with Artūras Juodis and Esther de Brabander). 2023. *Submitted*\
+**On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum** (with Artūras Juodis and Esther de Brabander). 2023. *Submitted* &bull; <small>[arXiv](https://arxiv.org/abs/2309.02089)</small>
 <details>
   <summary>
     <small>Abstract</small>
-  </summary> &bull; [arXiv](https://arxiv.org/abs/2309.02089)</small>
+  </summary> 
   <small>
 The Synthetic Control (SC) method has been a popular and dominant method to evaluate treatment and intervention effects in the last two decades. The method is powerful yet very intuitive to use both for empirical researchers and policy experts, but is not without shortcomings. As a response to this, the new Demeaned SC (DSC) and Synthetic Differencein-differences (SDID) approaches were introduced in the literature. In this paper, we evaluate the relative benefits of using DSC and SDID using in-sample placebo analysis on the real data on the Brexit referendum, as well as an extensive Monte Carlo study. Overall, using the SDID methodology, we find that the estimated effect of the Brexit referendum on UK GDP at the end of 2018 and 2019 is higher than previously documented in the literature.
   </small>
