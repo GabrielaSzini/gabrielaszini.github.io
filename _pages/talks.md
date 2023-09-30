@@ -5,12 +5,12 @@ title: Talks
 
 ## Seminars
 
-**Tinbergen Insitute PhD Seminar** &bull; June 9, 2023; Tinbergen Institute, Amsterdam, the Netherlands &bull; Presented [Pairwise]\
-**Faculty of Economics and Business PhD Lunch Seminar** &bull; June 5, 2023 &bull; University of Amsterdam, the Netherlands &bull; Presented [Pairwise]\
-**Econometrics Student Seminar** &bull; February 22, 2023 &bull; Princeton University, USA &bull; Presented [Pairwise]\
-**Seminários Economia USP** &bull; August 18, 2022 &bull; Universidade de São Paulo, Brazil &bull; Presented [Brexit] &bull; [Video of online seminar](https://www.youtube.com/watch?v=ukQQ7CLO6bI)\
-**Faculty of Economics and Business PhD Lunch Seminar** &bull; June 14, 2021; University of Amsterdam, the Netherlands &bull; Presented [Dyadic]\
-**Brown Bag Econometrics Lunch Seminar** &bull; October 23, 2020 &bull; University of Amsterdam, the Netherlands &bull; Presented MPhil thesis
+**Tinbergen Insitute PhD Seminar** &bull; June 9, 2023\ <small>Tinbergen Institute, Amsterdam, the Netherlands &bull; Presented [Pairwise]</small>\
+**Faculty of Economics and Business PhD Lunch Seminar** &bull; June 5, 2023\ <small>University of Amsterdam, the Netherlands &bull; Presented [Pairwise]</small>\
+**Econometrics Student Seminar** &bull; February 22, 2023\ <small>Princeton University, USA &bull; Presented [Pairwise]</small>\
+**Seminários Economia USP** &bull; August 18, 2022\ <small>Universidade de São Paulo, Brazil &bull; Presented [Brexit] &bull; [Video of online seminar](https://www.youtube.com/watch?v=ukQQ7CLO6bI)</small>\
+**Faculty of Economics and Business PhD Lunch Seminar** &bull; June 14, 2021\ <small>University of Amsterdam, the Netherlands &bull; Presented [Dyadic]</small>\
+**Brown Bag Econometrics Lunch Seminar** &bull; October 23, 2020\ <small>University of Amsterdam, the Netherlands &bull; Presented MPhil thesis</small>
 
 ## Conferences
 
