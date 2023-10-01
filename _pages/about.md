@@ -17,6 +17,7 @@ I will be available on the 2023/24 academic job market.
 
 In my Job Market Paper, I propose an estimator for distribution regression models under a networks framework (taken into account through a dyadic setting). I show that this estimator is asymptotically unbiased even in the presence of sparse networks, and also in the extremum quantiles of the distribution of the outcome of interest. This method is applicable to the estimation of international trade flows, firm-level trade flows, and any other network data in which the outcomes are formed through bilateral ties of agents.  
 
-*Placement information:*  
+***Placement information:***  
+
 Placement director: Prof. Eric Bartelsman (e.j.bartelsman[at]vu.nl)  
 Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
