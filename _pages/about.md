@@ -22,14 +22,14 @@ In my Job Market Paper, I propose an estimator for distribution regression model
 
 ---
 
-##Placement information:
+***Placement information:***  
 
-Placement director: Prof. Eric Bartelsman (e.j.bartelsman[at]vu.nl)  
-Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)  
+Placement Director: Prof. Eric Bartelsman (e.j.bartelsman[at]vu.nl)  
+Placement Assistant: Christina Månsson (c.mansson[at]tinbergen.nl)  
 
 ---
 
-##References:  
+***References:***    
 
 <div style="display: flex; justify-content: space-between;">
   
@@ -46,8 +46,6 @@ Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
     University of Amsterdam<br>
     a.juodis[at]uva.nl 
   </div>
-  
-
 </div>
 <br>
 <div style="display: flex; justify-content: space-between;">
@@ -58,7 +56,6 @@ Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
     Princeton University<br>
     honore[at]princeton.edu 
   </div>
-
 </div>
   <br>
 
