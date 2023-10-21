@@ -12,9 +12,9 @@ I am a Ph.D. candidate in Econometrics at the [University of Amsterdam](https://
    
 I will be available on the 2023/24 academic job market.  
 
-*Primary research field:* Econometrics.  
+***Primary research field:*** Econometrics.  
 
-*Secondary research fields:* (Pseudo-)panel data, econometrics of network models, distribution regression, estimation of treatment effects.  
+***Secondary research fields:*** (Pseudo-)panel data, econometrics of network models, distribution regression, estimation of treatment effects.  
 
 In my Job Market Paper, I propose an estimator for distribution regression models under a networks framework (taken into account through a dyadic setting). I show that this estimator is asymptotically unbiased even in the presence of sparse networks, and also in the extremum quantiles of the distribution of the outcome of interest. This method is applicable to the estimation of international trade flows, firm-level trade flows, and any other network data in which the outcomes are formed through bilateral ties of agents.  
 
@@ -23,27 +23,27 @@ In my Job Market Paper, I propose an estimator for distribution regression model
 Placement director: Prof. Eric Bartelsman (e.j.bartelsman[at]vu.nl)  
 Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)  
 
-***References***  
+***References:***  
 
 <div class="minipage-container">
   <div class="minipage">
     <!-- Left column content -->
-    Prof. Dr. Frank Kleibergen  
+    **Prof. Dr. Frank Kleibergen**  
     Professor of Econometrics  
     University of Amsterdam  
     F.R.Kleibergen[at]uva.nl  
   </div>
   <div class="minipage">
     <!-- Right column content -->
-    Prof. Dr. Bo Honoré  
-    Professor of Economics   
+    **Prof. Dr. Bo Honoré**  
+    Professor of Economics  
     Princeton University  
     honore[at]princeton.edu  
   </div>
     <div class="minipage">
     <!-- Right column content -->
-    Dr. Artūras Juodis  
-    Associate Professor of Econometrics    
+    **Dr. Artūras Juodis**  
+    Associate Professor of Econometrics  
     University of Amsterdam  
     a.juodis[at]uva.nl  
   </div>
@@ -57,7 +57,7 @@ Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
 }
 
 .minipage {
-  flex-basis: 30%; /* Adjust this value to control the column width */
+  flex-basis: 50%; /* Adjust this value to control the column width */
   padding: 10px;
 }
 </style>
