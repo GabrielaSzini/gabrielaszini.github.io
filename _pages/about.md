@@ -50,7 +50,6 @@ Placement Assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
 </div>
 <br>
 <div style="display: flex; justify-content: space-between;">
-
 <div style="flex: 1;">
     <b>Prof. Dr. Bo Honoré</b><br>
      Professor of Economics<br>
