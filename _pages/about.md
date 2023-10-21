@@ -57,9 +57,8 @@ Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
 }
 
 .minipage {
-  flex-basis: 48%; /* Adjust this value to control the column width */
+  flex-basis: 30%; /* Adjust this value to control the column width */
   padding: 10px;
-  border: 1px solid #ccc;
 }
 </style>
 
