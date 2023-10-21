@@ -12,56 +12,53 @@ I am a Ph.D. candidate in Econometrics at the [University of Amsterdam](https://
    
 I will be available on the 2023/24 academic job market.  
 
+---
+
 ***Primary research field:*** Econometrics.  
 
 ***Secondary research fields:*** (Pseudo-)panel data, econometrics of network models, distribution regression, estimation of treatment effects.  
 
 In my Job Market Paper, I propose an estimator for distribution regression models under a networks framework (taken into account through a dyadic setting). I show that this estimator is asymptotically unbiased even in the presence of sparse networks, and also in the extremum quantiles of the distribution of the outcome of interest. This method is applicable to the estimation of international trade flows, firm-level trade flows, and any other network data in which the outcomes are formed through bilateral ties of agents.  
 
-***Placement information:***  
+---
+
+##Placement information:
 
 Placement director: Prof. Eric Bartelsman (e.j.bartelsman[at]vu.nl)  
 Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)  
 
-***References:***  
+---
 
-<div class="minipage-container">
-  <div class="minipage">
+##References:  
 
-  **Prof. Dr. Frank Kleibergen**  
-  Professor of Econometrics  
-  University of Amsterdam  
-  F.R.Kleibergen[at]uva.nl  
+<div style="display: flex; justify-content: space-between;">
+  
+  <div style="flex: 1;">
+    <b>Prof. Frank Kleibergen</b><br>
+    Professor of Econometrics<br>
+    University of Amsterdam<br>
+    f.r.kleibergen[at]uva.nl
   </div>
-
-  <div class="minipage">
-    
-  **Dr. Artūras Juodis**  
-  Associate Professor of Econometrics  
-  University of Amsterdam  
-  a.juodis[at]uva.nl  
+  
+  <div style="flex: 1;">
+    <b>Dr. Artūras Juodis</b><br>
+    Associate Professor of Econometrics<br>
+    University of Amsterdam<br>
+    a.juodis[at]uva.nl 
   </div>
+  
+
 </div>
+<br>
+<div style="display: flex; justify-content: space-between;">
 
-  <div class="minipage">
-
-  **Prof. Dr. Bo Honoré**  
-  Professor of Economics  
-  Princeton University  
-  honore[at]princeton.edu  
+<div style="flex: 1;">
+    <b>Prof. Dr. Bo Honoré</b><br>
+     Professor of Economics<br>
+    Princeton University<br>
+    honore[at]princeton.edu 
   </div>
+
 </div>
-
-
-<style>
-.minipage-container {
-  display: flex;
-  justify-content: space-between;
-}
-
-.minipage {
-  flex-basis: 48%; /* Adjust this value to control the column width */
-  padding: 10px;
-}
-</style>
+  <br>
 
