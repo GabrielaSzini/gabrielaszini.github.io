@@ -32,12 +32,17 @@ Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
   Professor of Econometrics  
   University of Amsterdam  
   F.R.Kleibergen[at]uva.nl  
+  </div>
 
+  <div class="minipage">
+    
   **Dr. Artūras Juodis**  
   Associate Professor of Econometrics  
   University of Amsterdam  
   a.juodis[at]uva.nl  
   </div>
+</div>
+
   <div class="minipage">
 
   **Prof. Dr. Bo Honoré**  
@@ -55,7 +60,7 @@ Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
 }
 
 .minipage {
-  flex-basis: 50%; /* Adjust this value to control the column width */
+  flex-basis: 48%; /* Adjust this value to control the column width */
   padding: 10px;
 }
 </style>
