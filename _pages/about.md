@@ -27,25 +27,23 @@ Placement assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
 
 <div class="minipage-container">
   <div class="minipage">
-    <!-- Left column content -->
-    **Prof. Dr. Frank Kleibergen**  
-    Professor of Econometrics  
-    University of Amsterdam  
-    F.R.Kleibergen[at]uva.nl  
+
+  **Prof. Dr. Frank Kleibergen**  
+  Professor of Econometrics  
+  University of Amsterdam  
+  F.R.Kleibergen[at]uva.nl  
+
+  **Dr. Artūras Juodis**  
+  Associate Professor of Econometrics  
+  University of Amsterdam  
+  a.juodis[at]uva.nl  
   </div>
   <div class="minipage">
-    <!-- Right column content -->
-    **Prof. Dr. Bo Honoré**  
-    Professor of Economics  
-    Princeton University  
-    honore[at]princeton.edu  
-  </div>
-    <div class="minipage">
-    <!-- Right column content -->
-    **Dr. Artūras Juodis**  
-    Associate Professor of Econometrics  
-    University of Amsterdam  
-    a.juodis[at]uva.nl  
+
+  **Prof. Dr. Bo Honoré**  
+  Professor of Economics  
+  Princeton University  
+  honore[at]princeton.edu  
   </div>
 </div>
 
