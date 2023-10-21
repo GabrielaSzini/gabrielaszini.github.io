@@ -24,6 +24,7 @@ author_profile: true
 
 ---
 ## São Paulo School of Economics (Fundação Getulio Vargas)
+
 **Information Technology Laboratory (BSc)** &bull; Spring 2011 &bull; TA for Dr. Mayra Ivanoff
 
 
