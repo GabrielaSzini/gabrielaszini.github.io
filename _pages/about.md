@@ -46,6 +46,7 @@ Placement Assistant: Christina Månsson (c.mansson[at]tinbergen.nl)
     University of Amsterdam<br>
     a.juodis[at]uva.nl 
   </div>
+  
 </div>
 <br>
 <div style="display: flex; justify-content: space-between;">
