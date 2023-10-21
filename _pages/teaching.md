@@ -13,13 +13,11 @@ author_profile: true
 **Bachelor in Econometrics thesis supervision** (x6) &bull; 2021 and 2022  
 
 ---
-
 ## Technical University of Munich
 
 **Summer School (PhD): Advanced Panel Data Econometrics** &bull; March 2023 &bull; TA for Dr. Artūras Juodis  
 
 ---
-
 ## Tinbergen Institute
 
 **Advanced Econometrics II (MPhil)** &bull; Spring 2023, 2022 and 2020&bull; TA for [Prof. Dr. Frank Kleibergen](https://www.uva.nl/en/profile/k/l/f.r.kleibergen/f.r.kleibergen.html) and [Dr. Andreas Pick](https://apick.eu/)  &bull; [Tutorial Notes](http://gabrielaszini.github.io/files/Notes_Tutorials__Advanced_Econometrics_II_2022.pdf)  
