@@ -5,7 +5,7 @@ title: Research
 
 ## Job Market Paper
 
-**A Pairwise Differencing Distribution Regression Approach for Network Models**. 2023.
+**A Pairwise Differencing Distribution Regression Approach for Network Models**. 2023. &bull; <small>[Download paper](http://gabrielaszini.github.io/files/GabrielaSzini_JMP.pdf)</small>
 
 <details>
   <summary>
@@ -18,7 +18,7 @@ This paper proposes a novel estimation method for distribution regressions in a 
 
 ## Working papers
 
-**On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum** (with Artūras Juodis and Esther de Brabander). 2023. *Submitted* &bull; <small>[Video of online seminar](https://www.youtube.com/watch?v=ukQQ7CLO6bI)</small>
+**On the Use of the Synthetic Difference-in-Differences Approach with(-out) Covariates: The Case Study of the Brexit Referendum** (with Artūras Juodis and Esther de Brabander). 2023. *Submitted* &bull; <small>[Download paper](http://gabrielaszini.github.io/files/deBrabanderJuodisSzini_Brexit_2023.pdf)</small> &bull; <small>[Download supplementary appendix](deBrabanderJuodisSzini_Brexit_appendix_2023.pdf)</small> &bull; <small>[Video of online seminar](https://www.youtube.com/watch?v=ukQQ7CLO6bI)</small>
 <details>
   <summary>
     <small>Abstract</small>
