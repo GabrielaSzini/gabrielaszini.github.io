@@ -40,7 +40,7 @@ Even though dyadic regressions are widely used in empirical applications, the (a
 
 ## Work in Progress
 
-** Bounds on Average Effects in Network Formation Models** (with [Cavit Pakel](https://cavitpakel.github.io/)). 
+**Bounds on Average Effects in Network Formation Models** (with [Cavit Pakel](https://cavitpakel.github.io/)). 
 
 
 
