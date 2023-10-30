@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## University of Amsterdam
 
-**Econometric Analysis (Introductory course in Econometrics for BSc in Politics, Psychology Law and Economics)** &bull; Fall 2023 &bull; TA for [Prof. Dr. Monique de Haan](https://www.moniquedehaan.nl/)  
+**Econometric Analysis (Introductory course in Econometrics for BSc in Politics, Psychology, Law and Economics)** &bull; Fall 2023 &bull; TA for [Prof. Dr. Monique de Haan](https://www.moniquedehaan.nl/)  
 **Econometrics I (Introductory course in Econometrics for BSc in Economics)** &bull; Fall 2022 and 2021 &bull; TA for [Dr. Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html)  
 **Applied (Financial) Econometrics (Intermediary course in Econometrics for MSc in Economics and MSc in Business Economics)** &bull; Fall 2020 &bull; TA for [Dr. Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html)  
 **Bachelor in Econometrics thesis supervision** (x6) &bull; 2021 and 2022  
