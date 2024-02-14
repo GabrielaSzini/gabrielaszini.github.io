@@ -10,7 +10,7 @@ redirect_from:
 <br><br>
 I am a Ph.D. candidate in Econometrics at the [University of Amsterdam](https://ase.uva.nl/content/sections/quantitative-economics/quantitative-economics.html?origin=D4DixO%2FESbuaIXcFryAJdQ) and the [Tinbergen Institute](https://www.tinbergen.nl/home). My advisors are [Prof. Dr. Frank Kleibergen](https://www.uva.nl/en/profile/k/l/f.r.kleibergen/f.r.kleibergen.html) and [Dr. Artūras Juodis](http://juodis.economists.lt/home). I visited [Princeton University](https://economics.princeton.edu/) in the spring semester of 2023, hosted by [Prof. Dr. Bo Honoré](https://honore.scholar.princeton.edu/). 
    
-From September 2024 I will be an Assistant Professor at the Department of Econometrics and Operations Research at Tilburg University.
+I will be available on the 2023/24 academic job market.  
 
 ---
 
@@ -48,8 +48,12 @@ In my Job Market Paper, I propose an estimator for distribution regression model
     a.juodis[at]uva.nl 
   </div>
 </div>
-<br>
+  <br>
 
 ---
 
-aaaa
+***Placement information:***  
+
+Placement Director: Prof. Eric Bartelsman (e.j.bartelsman[at]vu.nl)  
+Placement Assistant: Christina Månsson (c.mansson[at]tinbergen.nl)  
+
