@@ -48,4 +48,3 @@ In my Job Market Paper, I propose an estimator for distribution regression model
     a.juodis[at]uva.nl 
   </div>
 </div>
-  <br>
