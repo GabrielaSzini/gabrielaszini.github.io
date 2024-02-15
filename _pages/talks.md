@@ -5,7 +5,21 @@ title: Talks
 
 ## Seminars
 
-**Tinbergen Insitute PhD Seminar** &bull; June 9, 2023  
+**The University of Melbourne** &bull; February 1st, 2024  
+<small>Melbourne, Australia &bull; Presented [Pairwise]</small> 
+**Erasmus University Rotterdam** &bull; January 26, 2024  
+<small>Rotterdam, the Netherlands &bull; Presented [Pairwise]</small> 
+**Fordham University** &bull; January 24, 2024  
+<small>New York, United States (Online) &bull; Presented [Pairwise]</small> 
+**University of Groningen** &bull; January 18, 2024  
+<small>Groningen, the Netherlands &bull; Presented [Pairwise]</small> 
+**The University of Queensland** &bull; January 15, 2024  
+<small>Brisbane, Australia &bull; Presented [Pairwise]</small>  
+**Tilburg University** &bull; January 12, 2024  
+<small>Tilburg, the Netherlands &bull; Presented [Pairwise]</small>  
+**The University of Manchester** &bull; January 10, 2024  
+<small>Manchester, UK &bull; Presented [Pairwise]</small>  
+**Tinbergen Institute PhD Seminar** &bull; June 9, 2023  
 <small>Tinbergen Institute, Amsterdam, the Netherlands &bull; Presented [Pairwise]</small>  
 **Faculty of Economics and Business PhD Lunch Seminar** &bull; June 5, 2023  
 <small>University of Amsterdam, the Netherlands &bull; Presented [Pairwise]</small>  
