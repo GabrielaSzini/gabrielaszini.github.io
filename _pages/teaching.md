@@ -19,7 +19,7 @@ author_profile: true
 ---
 ## Tinbergen Institute
 
-**Advanced Econometrics II (PhD level course for MPhil in Economics, Advanced Econometrics track)** &bull; Spring 2023, 2022 and 2020) &bull; [Tutorial Notes](http://gabrielaszini.github.io/files/Notes_Tutorials__Advanced_Econometrics_II_2022.pdf)  
+**Advanced Econometrics II (PhD level course for MPhil in Economics, Advanced Econometrics track)** &bull; Spring 2023, 2022 and 2020 &bull; [Tutorial Notes](http://gabrielaszini.github.io/files/Notes_Tutorials__Advanced_Econometrics_II_2022.pdf)  
 **Principles in Programming in Econometrics (Introductory level course in programming in Python for MPhil in Economics)** &bull; Fall 2019  
 
 ---
