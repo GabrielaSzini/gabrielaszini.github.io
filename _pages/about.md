@@ -50,10 +50,5 @@ In my Job Market Paper, I propose an estimator for distribution regression model
 </div>
   <br>
 
----
 
-***Placement information:***  
-
-Placement Director: Prof. Eric Bartelsman (e.j.bartelsman[at]vu.nl)  
-Placement Assistant: Christina Månsson (c.mansson[at]tinbergen.nl)  
 
