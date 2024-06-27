@@ -35,7 +35,7 @@ title: Talks
 ## Conferences
 
 **Workshop on Causal Inference + Machine Learning (scheduled)** &bull; September 2-3, 2024  
-<small> University of Groningen, the Netherlands</small> 
+<small> University of Groningen, the Netherlands</small>  
 **International Association for Applied Econometrics (IAAE)** &bull; June 25, 2024  
 <small>Thessaloniki, Greece &bull; Presented [Pairwise]</small>   
 **Workshop on Recent Advances in Panel and Network Data** &bull; June 10, 2024  
