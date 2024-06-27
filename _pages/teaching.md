@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## University of Amsterdam
 
+**Econometrics 2 (BSc in Econometrics)** &bull; Spring 2024  
 **Econometric Analysis (Introductory course in Econometrics for BSc in Politics, Psychology, Law and Economics)** &bull; Fall 2023  
 **Econometrics I (Introductory course in Econometrics for BSc in Economics)** &bull; Fall 2023, 2022, and 2021  
 **Applied (Financial) Econometrics (Intermediary course in Econometrics for MSc in Economics and MSc in Business Economics)** &bull; Fall 2020  
