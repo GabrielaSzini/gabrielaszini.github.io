@@ -50,7 +50,7 @@ title: Talks
 <small>Tinbergen Institute, Amsterdam, the Netherlands &bull; Presented [Pairwise]</small>  
 **Workshop on Specification and Mis-specification Analysis in Cross-section and Panel Data** &bull; September 16, 2022    
 <small>University of Amsterdam, the Netherlands &bull; Presented [Brexit]</small>  
-**Baltic Economic Conference Brexit** &bull; June 27, 2022  
+**Baltic Economic Conference** &bull; June 27, 2022  
 <small>Kaunas University of Technology, Lithuania &bull; Presented [Brexit]</small>  
 **International Association for Applied Econometrics (IAAE)** &bull; June 21, 2022  
 <small>King's College London, UK &bull; Presented [Brexit]</small>  
