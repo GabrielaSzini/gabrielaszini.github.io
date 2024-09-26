@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "About"
 title_separator          : "-"
 name                     : &name "Gabriela Miyazato Szini"
-description              : &description "PhD Candidate in Econometrics at the University of Amsterdam"
+description              : &description "Assistant Professor in Econometrics at Tilburg University"
 url                      : https://gabrielaszini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GabrielaSzini/gabrielaszini.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Gabriela Miyazato Szini"
   avatar           : "image02.jpeg"
-  bio              : "PhD Candidate in Econometrics at the University of Amsterdam"
-  location         : "Amsterdam, the Netherlands"
+  bio              : "Assistant Professor in Econometrics at Tilburg University"
+  location         : "Tilburg, the Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "g.m.m.szini@uva.nl"
+  email            : "g.m.miyazatoszini@tilburguniversity.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
