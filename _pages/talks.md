@@ -4,6 +4,7 @@ title: Talks
 ---
 
 ## Seminars
+
 **University of Bristol (scheduled)** &bull; October 21, 2024  
 <small>Bristol, UK</small>  
 **University of Exeter (scheduled)** &bull; October 15, 2024  
