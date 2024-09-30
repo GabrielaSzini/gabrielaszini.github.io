@@ -4,7 +4,10 @@ title: Talks
 ---
 
 ## Seminars
-
+**University of Bristol (scheduled)** &bull; October 21, 2024  
+<small>Bristol, UK</small>  
+**University of Exeter (scheduled)** &bull; October 15, 2024  
+<small>Exeter, UK</small>  
 **The University of Melbourne** &bull; February 1st, 2024  
 <small>Melbourne, Australia &bull; Presented [Pairwise]</small>  
 **Erasmus University Rotterdam** &bull; January 26, 2024  
@@ -34,7 +37,9 @@ title: Talks
 
 ## Conferences
 
-**Workshop on Causal Inference + Machine Learning (scheduled)** &bull; September 2-3, 2024  
+**Aarhus Workshop in Econometrics V (scheduled)** &bull; October 24-25, 2024  
+<small> Aarhus University, Denmark</small> 
+**Workshop on Causal Inference + Machine Learning** &bull; September 2-3, 2024  
 <small> University of Groningen, the Netherlands</small>  
 **International Association for Applied Econometrics (IAAE)** &bull; June 25, 2024  
 <small>Thessaloniki, Greece &bull; Presented [Pairwise]</small>   
