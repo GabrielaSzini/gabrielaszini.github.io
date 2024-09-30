@@ -18,7 +18,9 @@ I am an Assistant Professor in Econometrics at the [Department of Econometrics &
 
 ---
 
-***Scheduled talks:***    
+***Scheduled talks:***   
+
+- University of Exeter (October 2024)  
 
 - University of Bristol (October 2024)
   
