@@ -18,6 +18,10 @@ I am an Assistant Professor in Econometrics at the [Department of Econometrics &
 
 ---
 
+***News:*** Visiting the University of Bristol, hosted by [Sami Stouli](https://samistouli.com/) in October 2024.  
+
+---
+
 ***Scheduled talks:***   
 
 - University of Exeter (October 2024)  
