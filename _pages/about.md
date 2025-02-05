@@ -24,11 +24,8 @@ I am an Assistant Professor in Econometrics at the [Department of Econometrics &
 
 ***Scheduled talks:***   
 
-- University of Exeter (October 2024)  
+- New York University (April 2024)  
 
-- University of Bristol (October 2024)
-  
-- Aarhus Workshop in Econometrics V (October 2024)
 
 
 
