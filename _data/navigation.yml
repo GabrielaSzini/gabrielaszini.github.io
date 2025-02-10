@@ -14,9 +14,6 @@ main:
         
   - title: "Contact"
     url: /contact/
-
-  - title: "Personal"
-    url: /personal/
     
   #- title: "Guide"
   #  url: /markdown/
