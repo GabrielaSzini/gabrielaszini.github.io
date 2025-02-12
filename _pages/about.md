@@ -22,7 +22,11 @@ I am an Assistant Professor in Econometrics at the [Department of Econometrics &
 
 - New York University (April 2024)  
 
+---
 
+***News:***   
+
+- Visiting the University of Oxford, Department of Economics in May 2025 (hosted by Cavit Pakel and Martin Weidner).  
 
 
 
