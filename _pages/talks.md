@@ -4,7 +4,7 @@ title: Talks
 ---
 
 ## Seminars
-**New York University(scheduled)** &bull; April 22, 2024  
+**New York University (scheduled)** &bull; April 22, 2025  
 <small>New York, US</small>  
 **University of Bristol** &bull; October 21, 2024  
 <small>Bristol, UK</small>  
