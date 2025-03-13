@@ -20,7 +20,9 @@ I am an Assistant Professor in Econometrics at the [Department of Econometrics &
 
 ***Scheduled talks:***   
 
-- New York University (April 2025)  
+- New York University (April 2025)
+
+- University of Michigan (April 2025)  
 
 ---
 
