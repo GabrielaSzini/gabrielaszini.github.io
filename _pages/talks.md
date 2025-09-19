@@ -4,7 +4,9 @@ title: Talks
 ---
 
 ## Seminars
-**New York University (scheduled)** &bull; April 22, 2025  
+**University of Michigan** &bull; April 24, 2025  
+<small>Ann Arbor, US</small>  
+**New York University** &bull; April 22, 2025  
 <small>New York, US</small>  
 **University of Bristol** &bull; October 21, 2024  
 <small>Bristol, UK</small>  
@@ -38,7 +40,14 @@ title: Talks
 <small>University of Amsterdam, the Netherlands &bull; Presented MPhil thesis</small>
 
 ## Conferences
-
+**Conference in Honor of Bo Honoré’s 65th Birthday** &bull; September 26-27, 2025  
+<small> Princeton University, US </small>  
+**World Congress of the Econometric Society** &bull; August 18-22, 2025  
+<small> Seoul, Korea </small>  
+**World Congress of the Econometric Society** &bull; August 18-22, 2025  
+<small> Seoul, Korea </small>  
+**(EC)^2 (poster)** &bull; December 6-7, 2024  
+<small> University of Amsterdam, the Netherlands </small>  
 **Aarhus Workshop in Econometrics V** &bull; October 24-25, 2024  
 <small> Aarhus University, Denmark</small>  
 **Workshop on Causal Inference + Machine Learning** &bull; September 2-3, 2024  
