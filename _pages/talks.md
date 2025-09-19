@@ -46,8 +46,6 @@ title: Talks
 <small> Princeton University, US </small>  
 **World Congress of the Econometric Society** &bull; August 18-22, 2025  
 <small> Seoul, Korea </small>  
-**World Congress of the Econometric Society** &bull; August 18-22, 2025  
-<small> Seoul, Korea </small>  
 **(EC)^2 (poster)** &bull; December 6-7, 2024  
 <small> University of Amsterdam, the Netherlands </small>  
 **Aarhus Workshop in Econometrics V** &bull; October 24-25, 2024  
