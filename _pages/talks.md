@@ -4,6 +4,8 @@ title: Talks
 ---
 
 ## Seminars
+**Oxford University Lunch Seminar** &bull; May 6, 2025  
+<small>Oxford, UK</small>  
 **University of Michigan** &bull; April 24, 2025  
 <small>Ann Arbor, US</small>  
 **New York University** &bull; April 22, 2025  
