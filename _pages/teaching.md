@@ -8,9 +8,9 @@ author_profile: true
 
 **Foundations in Econometrics (Research Master in Economics)** &bull; Fall 2025  
 **Econometrics for Data Science (BSc Data Science)** &bull; Fall 2025, 2024  
-**Quantitative Methods to Understand EB&I (BSc Entrepreneurship and Business Innovation)** &bull; Fall 2024, 2025  
+**Quantitative Methods to Understand EB&I (BSc Entrepreneurship and Business Innovation)** &bull; Fall 2025, 2024  
 **Improving Society Lab (BSc Econometrics & Operations Research)** &bull; Spring 2025, 2026  
-**BSc Econometrics \& Operations Research thesis supervision (x4)** &bull; 2025  
+**BSc Econometrics & Operations Research thesis supervision (x4)** &bull; 2025  
 **MSc Econometrics and Mathematical Economics thesis supervision (x4)** &bull; 2025  
 **MSc Finance thesis supervision (x3)** • 2025  
 
