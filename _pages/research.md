@@ -20,14 +20,14 @@ The Synthetic Control (SC) method has been a popular and dominant method to eval
 
 ## Working papers
 
-**A Pairwise Differencing Distribution Regression Approach for Network Models**. 2025. &bull; <small>[Download paper](http://gabrielaszini.github.io/files/GabrielaSzini_JMP.pdf)</small>
+**A Pairwise Differencing Distribution Regression Approach for Network Models**. 2026. (submitted) &bull; <small>[Download paper](http://gabrielaszini.github.io/files/GabrielaSzini_PD_Aug2026.pdf)</small> &bull; <small>[Supplemental Appendix](http://gabrielaszini.github.io/files/GabrielaSzini_PD_Aug2026_Supplemental.pdf)</small>
 
 <details>
   <summary>
     <small>Abstract</small>
   </summary>
   <small>
-This paper proposes a novel estimation method for distribution regressions in a network setting, considering the effects of covariates on the entire outcome distribution rather than just on the mean. I adopt a semiparametric approach, taking into account two-way unit-specific effects that are treated as fixed parameters to be estimated. Thus, I extend the standard distribution regression approach to a network setting by estimating multiple binary choice models with twoway fixed effects for different thresholds of the distribution. Instead of using bias-correction methods to address the incidental parameter problem, as previously proposed in the literature, I propose to employ a conditional maximum-likelihood approach (Charbonneau (2017), Jochmans (2018)) that differentiates out the unit-specific effects. This method yields consistent point estimates that converge at a parametric rate and remain asymptotically unbiased in the tails of the outcome distribution, where the underlying network can be seen as sparse. Monte Carlo simulations validate these findings for both single cut-offs and the overall outcome distribution. The empirical application focuses on gravity equations for bilateral trade, demonstrating the effectiveness of the proposed approach in cases where the outcome variable is bounded below at zero.
+I develop an estimation and inference framework for distribution regression in dyadic network settings with two-way fixed effects that vary across thresholds of the outcome. I show that identification of the structural parameters is achieved through binarization of the outcome at each threshold, and estimate the model by conditional maximum likelihood, which "differences out" the fixed effects and circumvents the incidental parameter problem. The estimator remains asymptotically unbiased under sparsity, whether from the network structure or binarization at extreme thresholds. The second novelty is to establish the joint asymptotic distribution of the estimators across multiple thresholds with different convergence rates, and to develop simultaneous confidence bands and tests for equality of coefficients across thresholds. Monte Carlo simulations confirm small bias, valid inference, and correct simultaneous coverage under sparsity. An application to bilateral trade finds that coefficients vary substantially across the distribution, with equality rejected for key trade barriers.
   </small>
 </details><br>
 
