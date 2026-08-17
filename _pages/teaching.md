@@ -11,7 +11,7 @@ author_profile: true
 **Quantitative Methods to Understand EB&I (BSc Entrepreneurship and Business Innovation)** &bull; Fall 2025, 2024  
 **Improving Society Lab (BSc Econometrics & Operations Research)** &bull; Spring 2025, 2026  
 **BSc Econometrics & Operations Research thesis supervision (x4)** &bull; 2025  
-**MSc Econometrics and Mathematical Economics thesis supervision (x6)** &bull; 2025, 2026
+**MSc Econometrics and Mathematical Economics thesis supervision (x6)** &bull; 2025, 2026  
 **MSc Finance thesis supervision (x3)** • 2025  
 
 ---
